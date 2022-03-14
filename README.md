@@ -1,9 +1,9 @@
 # Data-Science-and-Machine-Learning
 
 A series of data science projects dealing with analysis, visualization and machine learning operations on data.\
-Different sources of datasets used: real, fake, unlabelled, local, web-scraped.\
-Different kinds of operations performed: statistical, dataframe ops., plotting, cleaning/pre-processing, ML modelling, model tuning, pipelining, evaluation, insight extraction.\
-Different ML algorithms used: Regression, Classification, Clustering. 
+Sources of datasets used: real, fake, unlabelled, local, web-scraped.\
+Operations performed: statistical, dataframe ops., plotting, cleaning/pre-processing, ML modelling, model tuning, pipelining, evaluation, insight extraction.\
+ML algorithms used: Regression, Classification, Clustering. 
 
 **Tools used:**
 Python with libraries - Numpy, Pandas, Matplotlib, Seaborn, Plotly, Cufflinks, Scikit-learn.
