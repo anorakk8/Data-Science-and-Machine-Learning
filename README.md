@@ -1,7 +1,7 @@
 # Data-Science-and-Machine-Learning
 
 A series of data science projects dealing with analysis, visualization and machine learning operations on data.\
-Types of datasets used: real, fake, labelled, in-built, anonymised, local, web-scraped.\
+Types of datasets used: structured & semi-structured (real, fake, labelled, anonymised, in-built, local, web-scraped).\
 Operations performed: statistical, dataframe ops., plotting, cleaning/pre-processing, ML modelling, model tuning, pipelining, evaluation, insight extraction.\
 ML algorithms used: Regression, Classification, Clustering. 
 
