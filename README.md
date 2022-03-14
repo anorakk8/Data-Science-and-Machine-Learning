@@ -2,7 +2,7 @@
 
 A series of data science projects dealing with analysis, visualization and machine learning operations on data.\
 Types of datasets used: structured & semi-structured (real, fake, labelled, anonymised, in-built, local, web-scraped).\
-Operations performed: statistical, dataframe ops., plotting, cleaning/pre-processing, ML modelling, model tuning, pipelining, evaluation, insight extraction.\
+Operations performed: statistical, dataframe ops., analysis, visualization, cleaning/pre-processing, ML modelling, model tuning, pipelining, evaluation, insight extraction.\
 ML algorithms used: Regression, Classification, Clustering. 
 
 **Tools used:**
