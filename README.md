@@ -8,8 +8,4 @@ ML algorithms used: Regression, Classification, Clustering.
 **Tools used:**
 Python with libraries - Numpy, Pandas, Matplotlib, Seaborn, Plotly, Cufflinks, Scikit-learn.
 
-**NOTE:**
-These projects were made available for practice via a Data Science & Machine Learning online course (Jose Portilla, Udemy) 
-\
-\
 ![3](https://user-images.githubusercontent.com/98735612/158192577-f0a56c73-414c-4e22-82e0-1e8080800582.png)
